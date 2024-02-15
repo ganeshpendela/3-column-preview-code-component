@@ -12,7 +12,7 @@ This is a solution to the [3-column-preview-code-component on Frontend Mentor](h
   
 ## Overview
 
-Developed a QR code component solution using basic html and css styles.
+Developed a 3-column QR code component solution using basic html and css styles.
 ### Screenshot
 
 ![3-column-preview-card](image.png)
