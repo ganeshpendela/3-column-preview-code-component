@@ -12,14 +12,10 @@ This is a solution to the [3-column-preview-code-component on Frontend Mentor](h
   
 ## Overview
 
-Developed a 3-column QR code component solution using basic html and css styles.
+Developed a 3-column-preview-code component solution using basic html and css styles.
 ### Screenshot
 
 ![3-column-preview-card](image.png)
-
-### Links
-
-- Solution URL: https://65cd6e09d2a5fb4f5e14a4e4--ganesh-qr-code-component.netlify.app/
 
 ## My process
 
